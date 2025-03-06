@@ -1,3 +1,7 @@
+
+There is a presentation video here: https://drive.google.com/drive/folders/1REFFCDQqZEaDuzUD5wQ4N_Vfr8pMuhDO?usp=sharing
+
+
 Running it using the google colab
 Run every cell on the python code(It is gonna take a while)
 
