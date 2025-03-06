@@ -11,7 +11,7 @@ Run every cell on the python code(It is gonna take a while)
 
 
 Running through the .py and plk (no more than one minute)
-
+Change the mode_pat path inside the .py file
 First make sure to have the FASTAI library installed
 This is supposed to be run on windows.
 Go to this link https://drive.google.com/drive/folders/1REFFCDQqZEaDuzUD5wQ4N_Vfr8pMuhDO?usp=sharing
