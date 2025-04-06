@@ -1,7 +1,13 @@
 
 There is a presentation video here: https://drive.google.com/drive/folders/1REFFCDQqZEaDuzUD5wQ4N_Vfr8pMuhDO?usp=sharing
-Use the new .py file for testing so you will have the food against utensils classification.
 
+-----------------------------------------------------------------------------------------------------
+UPDATE
+Use the new .py file for testing so you will have the food against utensils classification.
+Use the second version of the training
+In this link:https://drive.google.com/drive/folders/1REFFCDQqZEaDuzUD5wQ4N_Vfr8pMuhDO?usp=sharing
+you will find old and new video.
+------------------------------------------------------------------------------------------------------
 Running it using the google colab
 Run every cell on the python code(It is gonna take a while)
 
