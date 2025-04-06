@@ -4,6 +4,7 @@ There is a presentation video here: https://drive.google.com/drive/folders/1REFF
 -----------------------------------------------------------------------------------------------------
 UPDATE
 Use the new .py file for testing so you will have the food against utensils classification.
+The new model is in the 0Test compressed file
 Use the second version of the training
 In this link:https://drive.google.com/drive/folders/1REFFCDQqZEaDuzUD5wQ4N_Vfr8pMuhDO?usp=sharing
 you will find old and new video.
