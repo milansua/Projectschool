@@ -7,6 +7,7 @@ Use the new .py file for testing so you will have the food against utensils clas
 Use the second version of the training
 In this link:https://drive.google.com/drive/folders/1REFFCDQqZEaDuzUD5wQ4N_Vfr8pMuhDO?usp=sharing
 you will find old and new video.
+The other two python codes are just for data preparation
 ------------------------------------------------------------------------------------------------------
 Running it using the google colab
 Run every cell on the python code(It is gonna take a while)
